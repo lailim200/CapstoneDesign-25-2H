@@ -319,8 +319,7 @@
 | (1) 과제명 |  Synchronizing Schedules Seamlessly: A Collaborative Web Application for Personal and Group Planning |
 |:---  |---  |
 | (2) 팀 번호/이름 | 23-졸업하고 싶조 |
-| (3) 구성원 | Makhmud Lailim (2171084): Leader, project management, professor communication, reports, presentations, schedules, deliverables
-Oskonbai kyzy Asema (2271099): Member, frontend and backend development, web app implementation, demo preparation |
+| (3) 구성원 | Makhmud Lailim (2171084): Leader, project management, professor communication, reports, presentations, schedules, deliverables Oskonbai kyzy Asema (2271099): Member, frontend and backend development, web app implementation, demo preparation |
 | (4) 지도교수 | 심재형 교수 |
 | (5) 트랙  | 산학 |
 | (6) 과제 키워드 | Schedule, Social engagement, planning |
