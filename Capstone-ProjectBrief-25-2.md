@@ -324,7 +324,25 @@
 | (4) 지도교수 | 심재형 교수 |
 | (5) 트랙  | 산학 |
 | (6) 과제 키워드 | Schedule, Social engagement, planning |
-| (7) 과제 내용 요약 | A collaborative web-based scheduler that allows multiple users to manage their own schedules, selectively share with friends, view shared schedules in real time, and propose or respond to group events. The app aims to address scheduling conflicts among busy students by providing group event suggestions and synchronization features. Built with React for the frontend and Firebase for backend services including authentication, database, and hosting.  |
+| (7) 과제 내용 요약 | [One Line Introduction]
+ScheduleSync is a web based social scheduling tool that helps friends quickly find mutual free time and coordinate group events through simple availability sharing and real time updates.
+[Pain Points]
+Recent surveys and student feedback show that university students struggle to plan meetups because their schedules are tightly packed and communication happens across multiple apps. Messages get buried in group chats, leading to confusion, mismatched free time, and canceled plans. Traditional calendar tools focus on individual use and provide no intuitive way to compare availability with friends. In a fast moving digital environment where students expect quick coordination, this creates a high barrier to successful planning.
+ScheduleSync addresses this by offering a lightweight, friend centered platform where users share availability directly and coordinate events without lengthy messaging.
+[Key Features]
+Event Sharing Chat: Friends can view each other’s availability and respond to proposed meetups with a simple yes or no
+
+Mutual Availability View: Automatically highlights overlapping free time
+
+Real Time Sync: Instant updates through Firebase for seamless coordination
+[Target Users]
+Students who frequently plan meals, study sessions, or project meetings with friends and want a simple, social, and fast way to schedule without chat clutter.
+
+[Expected Effects]
+Users can coordinate efficiently without navigating multiple apps.
+Personalized availability sharing improves self directed planning.
+Real time responses and intuitive event flows encourage repeated use and reduce scheduling friction.
+|
 | (8) 주요 Link |  https://github.com/lailim200/wewannagraduate |
  
 <br>
